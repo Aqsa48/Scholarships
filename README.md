@@ -28,3 +28,7 @@ Looking for scholarships to fund your master's program? Start your search with t
 - 🔍 Regularly update your profile to get the best matches.
 
 I would be adding more scholarships details to this repo, save this.
+
+This repository is open for adding more resources to this if you want to open source I would love to add more opporubities to this.
+
+
